@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./styless.css">
+</head>
+<link rel="stylesheet" href="styless.css">
+<body class="heading">
+    <style>
+        /* Set the margins */
+        body {
+          margin: 40px;
+        }
+      </style>
+    <div>
+    <img src="./Add a subheading.jpg"  download style="position: relative; top:0; left: 12px;; width:10%; height:3%;" />
+    </div>
+    <div class="n0-wrap">
+        <h1 class="my"> Home</h1>
+        <h1 class="mw"> Library</h1>
+        <h1 class="me">Contribute</h1>
+        <style>
+            .no-wrap {
+			white-space: nowrap;
+		}
+            /* nav{
+                text-align: right;
+                text-align-last: right;
+            } */
+            .my{
+                color: rgb(15, 15, 15);
+                text-align: right;
+            }
+            .mw{
+                color:darkred;
+                text-align: right;
+            }
+            .me{
+                text-align: right;
+                color:rgb(7, 7, 7)
+              
+            }
+        </style>
+        </div>
+    <br>
+    <br>
+<h1 class="hero">
+    Discover the best of Pixels..
+</h1>
+<div class="container">
+    <form class="form">
+        <input class="input" type="text" placeholder="Search...">
+        <button class="btn">Search</button>
+    </form>
+</div>
+<div class="container">
+    <button class="button flower">Flower</button>
+    <button class="button spring">Spring</button>
+    <button class="button dark-sky">Dark Sky</button>
+</div>
+<div class="icontainer">
+    <img src="./pexels-anh-ng-16284936.jpg" style="position:relative; bottom: 1100px;; left:50%; transform:translateX(-170%); width:30%; height:35%;" />
+    <img src="./pexels-freestocksorg-129634.jpg" style="position:relative; bottom:1100px; left:60%; transform:translateX(-170%); width:30%; height:35%;" />
+    <img src="./pexels-dids-3704411.jpg" style="position:relative; bottom:1100px; left:70%; transform:translateX(-170%); width:30%; height:35%;" />
+    <img src="./pexels-julia-sakelli-905485.jpg" style="position:relative; bottom:900px; left:50%; transform:translateX(-170%); width:30%; height:35%;" />   
+    <img src="./pexels-steve-johnson-2014744.jpg" style="position:relative; bottom:1100px; left:60%; transform:translateX(-170%); width:30%; height:35%;" /> 
+    <img src="./pexels-коледа-дмитрий-16145648.jpg" style="position:relative; bottom:1100px; left:70%; transform:translateX(-170%); width:30%; height:35%;" />
+</div>
+

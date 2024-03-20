@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./styles.css">
+</head>
+<body class="heading">
+    <style>
+        /* Set the margins */
+        body {
+          margin: 40px;
+        }
+      </style>
+    <div>
+    <img src="./Add a subheading.jpg"  download style="position: relative; top:0; left: 12px;; width:10%; height:3%;" />
+        <h1 class="para"> Home  Library  Contribute</h1>
+    <br>
+    <br>
+    <br>
+    <div class="search-container">
+    <form action="/search" method="get">
+        <label for="search-box">Search:</label>
+        <input type="text" id="search-box" name="q">
+        <button type="submit">Go</button>
+</form>
+    <br>
+    <br>
+    <h1 class="text"> The best free stock photos, fabulous <br>
+                        free images shared by creators</h1>
+    <br>
+    <h3>Trending: beautiful, city, dark sky, easter...</h3>
+    </div>
+    </div>
+</body>
+<br>
+<br>
+<br>
+<body class="images">
+    <div>
+    <div class="overlay">
+    <h1>Free stock photos</h1>
+    </div>
+    <div>
+    <button class="trending">
+    <a href="library.html">Trending</button></a>
+    </div>
+    <br>
+    <br>
+    <br>
+    <br>
+    <div>
+        <br>
+        <br>
+        <div class="img-container">
+            <!-- <button class="download">
+                <a href="./index.html" download>Download</a>
+            </button> -->
+        <img src="./pexels-louis-2101187.jpg"  download style="position: relative; bottom:0; left: 12px;; width:30%; height:25%;" />
+        <img src="./pexels-jj-jordan-7585533.jpg" style="position:relative; bottom:0; left:50%; transform:translateX(-170%); width:30%; height:35%;" />
+        <img src="./pexels-zoe-pappas-1006965.jpg" style="position:relative; bottom:0; left:50%; transform:translateX(-175%); width:30%; height:35%;" />
+        <img src="./pexels-oliver-sjöström-1122414.jpg"  download style="position: relative; bottom:0; left: 20px;; width:30%; height:25%;" />
+        <img src="./pexels-julia-sakelli-905485.jpg" style="position:relative; bottom:0; left:50%; transform:translateX(-170%); width:30%; height:35%;" />
+        <img src="./pexels-anni-roenkae-3418400.jpg" style="position:relative; bottom:0; left:50%; transform:translateX(-175%); width:30%; height:35%;" />
+        
+    </div>
+    </div>
+    
+</body>
+
+
+
+</html>

@@ -1,0 +1,102 @@
+.heading{
+    color: rgb(253, 250, 247);
+    text-size-adjust: 20px 30px;
+
+}
+
+.para{
+    text-align: right;
+    color: rgb(247, 245, 242);
+    text-align: right;
+    word-spacing: 10px;
+		
+}
+body{
+    background-image: url('./pexels-sz-katarzyna-6535130.jpg');
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: 1750px 600px;
+    
+}
+.text{
+    text-align: center;
+    color: aliceblue;
+    font-size:xx-large;
+}
+.search-container input[type=text] {
+    width: 40%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    display: flex;
+    font-size: 17px;
+    border: none;
+    border-radius: 2px 0 0 2px;
+}
+
+.search-container button {
+    
+    padding: 10px 20px;
+        background-color: #4CAF50;
+        color: white;
+        font-size: 16px;
+        border: none;
+        border-radius: 8px;
+        cursor: pointer;
+        display: flex;
+        justify-content: center;
+        text-align: center;
+}
+h3{
+    color: aliceblue;
+    text-align: center;
+}
+.overlay {
+    position: absolute;
+    bottom: left;
+    width:20%;
+    height: 16%;
+    display: flex;
+    justify-content: left;
+    align-items: left;
+}
+
+  /* Style the text */
+h1 {
+    color: rgb(2, 2, 2);
+    font-size: 30px;
+    text-align: left;
+}
+.trending {
+    width: 150px;
+    height: 40px;
+    font-size: 18px;
+    background-color: #ffcc00;
+    color: #ffffff;
+    border: none;
+    position:relative;
+    right: -1100px;
+    transition: all 0.5s ease-in-out;
+}
+.img-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 20px 0;
+}
+.img-container img {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    margin-bottom: 20px;
+    
+}
+.download {
+	background-color: rgb(244, 244, 248);
+	color: rgb(10, 10, 10);
+	padding: 5px px;
+	border: none;
+	border-radius: 5px;
+	font-size: 16px;
+	cursor: pointer;
+}
